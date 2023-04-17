@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Marcos.</h1>
 <h3 align="left">
-I am a professional who is constantly searching for new practices and knowledge, contributing to the development of products, systems and processes to solve problems for customers and companies. Currently, I am working as a Backend Developer focused on becoming Full Cycle, acquiring knowledge in new technologies and also in the DevOps area. Right now I am looking for opportunities to apply my knowledge and create solutions for the market.
+I am a professional who is constantly searching for new practices and knowledge, contributing to the development of products, systems and processes to solve problems for customers and companies. Currently, I am working as a Backend Developer focused on becoming Full Cycle by acquiring knowledge in new technologies and DevOps.
 </h3>
 
 <br>
